@@ -68,6 +68,10 @@ Se desarrolló una aplicación web interactiva en Python utilizando **Streamlit*
 
 El archivo **`app_streamlit/app.py`** permite a cualquier usuario introducir las características de una sesión de navegación y obtener una predicción instantánea sobre si esa sesión resultará en una compra o no.
 
+## Agradecimientos
+Mis profesores: Alberto Romero e Iván Cordero
+
+
 
 
 
